@@ -27,7 +27,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 
 **Other Intimate Stuff**
 - 👨‍💻 I'm currently working on my research project about incorporating **Augmented Reality for Users of AAC Devices**
-- 
+- I've released a fully functional Android Game built on Unity3D on the PlayStore. [@CrazyCubes]
 
 ***Hello World!***
 -
