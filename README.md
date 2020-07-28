@@ -5,15 +5,12 @@
 </div>
 
 <div align="center">
-<i>Started from a game-bot scripter, now we here</i><br>
-  
-At heart, I'm a <i>Software Engineer, Unity3D Developer, Augmented Reality (AR/VR) Enthusiast/Developer, Front-End App Programmer </i>
-... aka. your **typical** programmer.
+<i>Started from a game-bot scripter, now we here</i>
 </div>
 <br />
 
 I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics Engineering & Computer Science Double Degree**.
-
+- <i>Software Engineer, Unity3D Developer, Augmented Reality (AR/VR) Enthusiast/Developer, Front-End App Programmer </i> ... **programmer**
 
 ***Hello World!***
 -
