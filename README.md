@@ -18,5 +18,9 @@
   <img align="left" alt="Curtin Game Dev" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/discord.svg" />
 </a>
 
+<a href="mailto:ssajithisg@gmail.com">
+  <img align="left" alt="Ajith's GMail" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/gmail.svg" />
+</a>
+
 <br />
 
