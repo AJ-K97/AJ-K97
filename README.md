@@ -23,7 +23,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 </div>
 <br />
 
-  <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="400px" />
+  <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="415px" />
 
 **Other Intimate Stuff**
 - ⚒ Working on Research Project about incorporating <br />
