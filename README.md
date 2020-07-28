@@ -22,11 +22,11 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
   <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>  
 </div>
 <br />
-
+<br>
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 
-
+<br />
 **Other Intimate Stuff**
 - ⚒ Working on Research Project about incorporating <br />
 **Augmented Reality for Users of AAC Devices**
