@@ -1,7 +1,7 @@
-### Hi! I'm Ajith. 👋
+<h2> Hi! I'm Ajith. <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<!--
-**AJ-K97/AJ-K97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a (soon to be) **Graduate Student 🐱‍🏍 @ [@Curtin](https://www.curtin.edu.au/)** <br/>
+By Paper, I'm an *Electrical Engineer with Computer Science knowledge* **but** By Heart, I'm a *
 
 Here are some ideas to get you started:
 
