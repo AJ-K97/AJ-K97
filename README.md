@@ -11,8 +11,13 @@
 
 I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics Engineering & Computer Science Double Degree**.
 <div align="center">
-  <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Programmer</i> ... <b>programmer</b>
+  <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>
 </div>
+
+**About me**
+- Intern/Junior Developer [@VoyantAR](https://www.voyantar.com/)
+  - Primarily working on providing seamless AR experiences through Mobile/AR Glasses.
+
 
 ***Hello World!***
 -
