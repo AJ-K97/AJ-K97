@@ -16,6 +16,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 <br />
 
 **About me**
+
 I'm a **Intern/Junior Developer [@VoyantAR](https://www.voyantar.com/)** <br />
 - Primarily working on providing seamless AR experiences through Mobile/AR Glasses.
 
