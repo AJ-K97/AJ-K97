@@ -25,8 +25,9 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 
 <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 
-**About me**
-
+**Other Intimate Stuff**
+- 👨‍💻 I'm currently working on my research project about incorporating **Augmented Reality for Users of AAC Devices**
+- 
 
 ***Hello World!***
 -
