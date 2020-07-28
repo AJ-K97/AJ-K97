@@ -10,7 +10,7 @@
 <br />
 
 I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics Engineering & Computer Science Double Degree**.
-- <i>Software Engineer, Unity3D Developer, Augmented Reality (AR/VR) Enthusiast/Developer, Front-End App Programmer </i> ... **programmer**
+<div align="center"><i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Programmer</i> ... <b>programmer</b>/div>
 
 ***Hello World!***
 -
