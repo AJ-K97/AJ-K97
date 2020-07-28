@@ -4,8 +4,7 @@
 - 🖌 I currently study **Electronics and Electrical Engineering & Computer Science Double Degree**
 
 
-> **"Hello World!"**
-- :mailbox: Feel free to contact me through these avenues <br>
+**Hello World!**
 
 <a href="https://www.linkedin.com/in/ajith97/">
   <img align="left" alt="Ajith's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
