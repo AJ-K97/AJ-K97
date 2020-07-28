@@ -29,12 +29,12 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 - ⚒ Working on Research Project about incorporating <br />
 **Augmented Reality for Users of AAC Devices**
   - Looking into **Language Modeling & Machine Learning** to improve speeds
-- 🎮 Released a fully functional **Android Game built in Unity3D on PlayStore**
+- 🎮 Released a functional **Android Game built in Unity3D on PlayStore**
 - 🔨 Currently collab-ing on a Open World Project (Game)
 - 🌱 I'm currently learning **Python**, **JavaScript**, **3D Modelling**
 - 🧪 Also love experimenting with **Video Editing/Animation**
-- ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making <br />
-**automation scripts** for game bots
+- ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o <br />
+making **automation scripts** for game bots
 
 ***Hello World!***
 -
