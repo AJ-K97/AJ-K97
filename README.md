@@ -21,16 +21,5 @@
 </a> 
 </div>
 
-<a href="https://www.codechef.com/users/aj_k97">
-  <img align="left" alt="Ajith's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
-</a>
-
-<a href="https://discord.gg/N5uGyEs">
-  <img align="left" alt="Curtin Game Dev" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/discord.svg" />
-</a>
-
-<a href="mailto:ssajithisg@gmail.com">
-  <img align="left" alt="Ajith's GMail" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/gmail.svg" />
-</a>
 
 
