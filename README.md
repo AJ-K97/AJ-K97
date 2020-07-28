@@ -23,7 +23,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 </div>
 <br />
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="400px" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" />
 
 **Other Intimate Stuff**
 - ⚒ Working on Research Project about incorporating <br />
@@ -31,10 +31,10 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
   - Looking into **Language Modeling & Machine Learning** to improve speeds
 - 🎮 Released a fully functional **Android Game built in Unity3D on PlayStore**
 - 🔨 Currently collab-ing on a Open World Project (Game)
-- 🌱 I'm currently learning Python, JavaScript, 3D Modelling
-- Also love experimenting with Video Editing/Animation
+- 🌱 I'm currently learning **Python**, **JavaScript**, **3D Modelling**
+- 🧪 Also love experimenting with **Video Editing/Animation**
 - ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making <br />
-making automation scripts for game bots
+**automation scripts** for game bots
 
 ***Hello World!***
 -
