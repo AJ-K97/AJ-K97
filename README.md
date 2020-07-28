@@ -7,6 +7,7 @@
 <div align="center">
 <i>Started from a game-bot scripter, now we here<i/>
 </div>
+<br />
 
 - :mortar_board: I'm a (soon to be) **Graduate Student 🐱‍🏍 [@Curtin University](https://www.curtin.edu.au/)** <br/>
 - 📖 I currently study **Electronics and Electrical Engineering & Computer Science**
