@@ -21,8 +21,9 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 <div align="center">
   <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>  
 </div>
-<br /><br /><br />
+<br />
 
+<br />
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 **Other Intimate Stuff**
