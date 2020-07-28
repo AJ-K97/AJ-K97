@@ -6,7 +6,8 @@
 
 <div align="center">
 <i>Started from a game-bot scripter, now we here</i><br>
-At heart, I'm a *Software Engineer*, *Unity3D Developer*, *Augmented Reality (AR/VR) Enthusiast/Developer*, *Front-End App Programmer* 
+  
+At heart, I'm a <i>Software Engineer, Unity3D Developer, Augmented Reality (AR/VR) Enthusiast/Developer, Front-End App Programmer </i>
 ... aka. your **typical** programmer.
 </div>
 <br />
