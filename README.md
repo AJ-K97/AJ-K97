@@ -15,17 +15,20 @@
 
 **Hello World!**
 
-<div align="center">
 <a href="https://www.linkedin.com/in/ajith97/">
-  <img align="left" alt="Ajith's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Ajith's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> 
-</div>
 
-<div align="center">
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg">](https://www.codechef.com/users/aj_k97)
-</div>
+<a href="https://www.codechef.com/users/aj_k97">
+  <img align="center" alt="Ajith's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+</a>
 
+<a href="https://discord.gg/N5uGyEs">
+  <img align="center" alt="Curtin Game Dev" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/discord.svg" />
+</a>
 
-
+<a href="mailto:ssajithisg@gmail.com">
+  <img align="center" alt="Ajith's GMail" width="22px" src="https://raw.githubusercontent.com/AJ-K97/AJ-K97/master/icons/gmail.svg" />
+</a>
 
 
