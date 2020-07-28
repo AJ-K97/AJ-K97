@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Ajith. 👋
 
 <!--
 **AJ-K97/AJ-K97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
