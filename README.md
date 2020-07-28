@@ -23,11 +23,13 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 </div>
 <br />
 
-<img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="50px" />
+<img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="350px" />
 
 **Other Intimate Stuff**
 - 👨‍💻 I'm currently working on my research project about incorporating **Augmented Reality for Users of AAC Devices**
-- I've released a fully functional Android Game built on Unity3D on the PlayStore. [@CrazyCubes]
+  - Looking into **Language Modeling & Machine Learning** to improve speeds
+- Released a fully functional **Android Game built on Unity3D on the PlayStore. [@CrazyCubes]**
+- 🌱 I'm currently learning Python and JavaScript
 
 ***Hello World!***
 -
