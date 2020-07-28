@@ -13,7 +13,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 
 <div align="center">
   
-  I'm a <b>Intern/Junior Developer</b> [@VoyantAR](https://www.voyantar.com/)
+  I'm a <b>Intern/Junior Developer</b> [@VoyantAR](https://www.voyantar.com/) <br />
   I'm a <b>Software Engineer/Junior Developer</b> [@Fremantle Maritime Simulation Centre](https://www.linkedin.com/company/fremantle-maritime-simulation-centre/?originalSubdomain=au)
 </div>
 
