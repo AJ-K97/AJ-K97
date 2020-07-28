@@ -22,8 +22,9 @@
 </div>
 
 <div align="center">
-[![CodeChef](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg)](https://www.codechef.com/users/aj_k97"Ajith's Codechef")
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg">](https://www.codechef.com/users/aj_k97)
 </div>
+
 
 
 
