@@ -9,7 +9,7 @@
 </div>
 <br />
 
-I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics and Electrical Engineering & Computer Science Double Degree**.
+I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics Engineering & Computer Science Double Degree**.
 - At heart, I'm a *Software Engineer*, *Unity3D Developer*, *Augmented Reality (AR/VR) Enthusiast/Developer*, *Front-End App Programmer* 
 ... aka. your **typical** programmer.
 
