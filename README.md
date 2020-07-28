@@ -26,8 +26,9 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
   <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="415px" />
 
 **Other Intimate Stuff**
-- ⚒ Working on Research Project about incorporating **Augmented Reality for Users of AAC Devices**
-  - Looking into **Language Modeling & Machine Learning** to improve speeds
+- ⚒ Working on Research Project 
+  - ***Augmented Reality for Users of AAC Devices***
+  - Looking into **Language Modeling** & **Machine Learning** to improve speeds
 - 🎮 Released a functional **Android Game built in Unity3D on PlayStore**
 - 🔨 Currently collab-ing on a Open World Project (Game)
 - ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making **automation scripts** for game bots
