@@ -18,7 +18,8 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 </div>
 
 <div align="center">
-  <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>
+  <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> <br />
+  ... <b>programmer</b>
 </div>
 <br />
 
@@ -32,7 +33,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 - ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making **automation scripts** for game bots
 - 🌱 I'm currently learning **Python**, **JavaScript**, **3D Modelling**
 - 🧪 Also love experimenting with **Video Editing/Animation**
-- Besides being a ...programmer, I may also be able to give you a run for your money at badminton 🏸
+- Besides being a ... programmer, I may also be able to give you a run for your money at **badminton 🏸**
 
 ***Hello World!***
 -
