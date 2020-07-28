@@ -4,6 +4,10 @@
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="Raghav Khullar" width="150" height="150" />
 </div>
 
+<div align="center">
+> *Started from a game-bot scripter, now we here*
+</div>
+
 - :mortar_board: I'm a (soon to be) **Graduate Student 🐱‍🏍 [@Curtin University](https://www.curtin.edu.au/)** <br/>
 - 📖 I currently study **Electronics and Electrical Engineering & Computer Science**
 
