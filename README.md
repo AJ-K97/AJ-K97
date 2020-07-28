@@ -17,10 +17,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
   I'm a <b>Software Engineer/Junior Developer</b> [@Fremantle Maritime Simulation Centre](https://www.linkedin.com/company/fremantle-maritime-simulation-centre/?originalSubdomain=au)
 </div>
 
-
-<div align="center">
-  <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>  
-</div>
+<i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>  
 <br />
 
   <img align="right" alt="GIF" src="https://media1.tenor.com/images/1c6140897565e34a4e98f618e220dc0d/tenor.gif?itemid=9358372" width="415px" />
@@ -30,9 +27,11 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
   - Looking into **Language Modeling & Machine Learning** to improve speeds
 - 🎮 Released a functional **Android Game built in Unity3D on PlayStore**
 - 🔨 Currently collab-ing on a Open World Project (Game)
+- ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making **automation scripts** for game bots
 - 🌱 I'm currently learning **Python**, **JavaScript**, **3D Modelling**
 - 🧪 Also love experimenting with **Video Editing/Animation**
-- ⚡ Fun Fact: My love/hate r/s with programming started as a 12y/o making **automation scripts** for game bots
+
+
 
 ***Hello World!***
 -
