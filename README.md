@@ -9,7 +9,7 @@
 </div>
 <br />
 
-I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics Engineering & Computer Science Double Degree**.
+I'm a (soon to be) **Graduate Student :mortar_board: [@Curtin University](https://www.curtin.edu.au/)**, pursuing a **Electronics/Electrical Engineering & Computer Science Double Degree**.
 <div align="center">
   <i>Software Engineer</i>, <i>Unity3D Developer</i>, <i>Augmented Reality (AR/VR) Enthusiast/Developer</i>, <i>Front-End App Developer</i> ... <b>programmer</b>
 </div>
