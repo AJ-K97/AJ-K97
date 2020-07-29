@@ -36,6 +36,14 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 - 🧪 Also love experimenting with **Video Editing/Animation**
 - Besides being a ... programmer, I may also be able to give you a run for your money at **badminton 🏸**
 
+#### Languages I have used
+
+![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=microsoft)
+
 ***Hello World!***
 -
 
