@@ -36,6 +36,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 - 🧪 Also love experimenting with **Video Editing/Animation**
 - Besides being a ... programmer, I may also be able to give you a run for your money at **badminton 🏸**
 
+## ⚡ Technologies
 #### Languages I have used
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
@@ -44,8 +45,7 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=microsoft)
 
-***Hello World!***
--
+## :speech_balloon: Hello World!
 
 <a href="https://www.linkedin.com/in/ajith97/">
   <img align="left" alt="Ajith's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
