@@ -39,11 +39,13 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 ## ⚡ Technologies
 #### Languages I have used
 
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=C%2B%2B&logoColor=00599C)
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C#](https://img.shields.io/badge/-csharp-000000?style=flat&logo=microsoft)
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/java.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c%2B%2B.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c%23.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/html.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/css.png"></code>
+<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/python.png"></code>
 
 ## :speech_balloon: Hello World!
 
