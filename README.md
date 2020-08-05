@@ -37,14 +37,26 @@ I'm a (soon) **Graduate Student :mortar_board: [@Curtin University](https://www.
 - Besides being a ... programmer, I may also be able to give you a run for your money at **badminton 🏸**
 
 ## ⚡ Technologies
-#### Languages I have used
+#### Languages I have used & love
 
 <code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/java.png"></code>
-<code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c.png"></code>
+<code><img height="20" width="27" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c.png"></code>
 <code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/c%23.png"></code>
 <code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/html.png"></code>
 <code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/css.png"></code>
 <code><img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/python.png"></code>
+
+#### Tech & Tool I Love
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/github.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/intellij.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/linux.jpg">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/gitlab.jpg">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/vscode.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/intellij.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/unity.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/unrealengine.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/cisco.png">
+<img height="20" src="https://github.com/AJ-K97/AJ-K97/blob/master/icons/tech/tools/blender.png">
 
 ## :speech_balloon: Hello World!
 
